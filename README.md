@@ -19,3 +19,5 @@
  - input nama toko/peternakan ikan guppy,dll.
  - input alamat toko/peternakan ikan guppy,dll.
  - input jenis ikan yang dibubidaya
+## halaman 3, tambah toko/peternakan ikan guppy,dll 
+<img src="https://github.com/BintangAinurrohmad/GuppyFishFarmN/blob/main/Captureuinput.PNG" weight="300" height="600">
